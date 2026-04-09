@@ -1,0 +1,28 @@
+Overall Accuracy: 96.67%
+
+                precision    recall  f1-score   support
+
+        Bangle     0.6667    1.0000    0.8000         2
+      Binahong     1.0000    1.0000    1.0000         3
+          Buni     1.0000    1.0000    1.0000         3
+         Dadap     1.0000    0.6667    0.8000         3
+  Daun_Komprei     1.0000    1.0000    1.0000         2
+   Daun_Sendok     1.0000    1.0000    1.0000         3
+    Daun_Tulak     1.0000    1.0000    1.0000         3
+     Gandarusa     1.0000    0.7500    0.8571         4
+    Isen_Barak     1.0000    1.0000    1.0000         4
+    Isen_Putih     0.8000    1.0000    0.8889         4
+          Jahe     1.0000    1.0000    1.0000         2
+Jempiring_Alas     1.0000    1.0000    1.0000         4
+        Jonghe     1.0000    1.0000    1.0000         3
+      Kapulaga     1.0000    1.0000    1.0000         3
+    Kayu_Manis     1.0000    1.0000    1.0000         3
+     Lempuyang     1.0000    1.0000    1.0000         3
+       Sembung     1.0000    1.0000    1.0000         2
+         Sirih     1.0000    1.0000    1.0000         2
+          Temu     1.0000    1.0000    1.0000         3
+    Temu_Kunci     1.0000    1.0000    1.0000         4
+
+      accuracy                         0.9667        60
+     macro avg     0.9733    0.9708    0.9673        60
+  weighted avg     0.9756    0.9667    0.9664        60
